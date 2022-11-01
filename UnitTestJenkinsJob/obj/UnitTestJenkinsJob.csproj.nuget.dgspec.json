@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\sadik\\JenkinsDemoProject\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj": {}
+  },
+  "projects": {
+    "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj",
+        "projectName": "JeniknsJob",
+        "projectPath": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj",
+        "packagesPath": "C:\\Users\\Shahbaz.Sadik\\.nuget\\packages\\",
+        "outputPath": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shahbaz.Sadik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/dingnuget/auth/e8c34032-c116-437d-83a9-9874dd461890/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sadik\\JenkinsDemoProject\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sadik\\JenkinsDemoProject\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj",
+        "projectName": "UnitTestJenkinsJob",
+        "projectPath": "C:\\sadik\\JenkinsDemoProject\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj",
+        "packagesPath": "C:\\Users\\Shahbaz.Sadik\\.nuget\\packages\\",
+        "outputPath": "C:\\sadik\\JenkinsDemoProject\\UnitTestJenkinsJob\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shahbaz.Sadik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/dingnuget/auth/e8c34032-c116-437d-83a9-9874dd461890/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj": {
+                "projectPath": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
