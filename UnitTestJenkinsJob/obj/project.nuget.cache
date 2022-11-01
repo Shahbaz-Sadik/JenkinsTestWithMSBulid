@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "scQfjGGQws9cnxuIk4KkXeFYomPgS9A6DzgfUFseUkssx7U4ttsB5ni0DBO8IHOXUEzZ+Uam8pKnKNmqISfDQA==",
+  "dgSpecHash": "4AMSkBc5BNa7poRXdg+lYQIvHb9uW28P2CyiIjtNI54RwdiYE1qpYw1HQDks0+dthXvyeMBkvZYU9Q8U4izs5Q==",
   "success": true,
-  "projectFilePath": "C:\\sadik\\JenkinsDemoProject\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj",
+  "projectFilePath": "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shahbaz.Sadik\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\Shahbaz.Sadik\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -3899,11 +3899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sadik\\JenkinsDemoProject\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj",
+      "projectUniqueName": "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj",
       "projectName": "UnitTestJenkinsJob",
-      "projectPath": "C:\\sadik\\JenkinsDemoProject\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj",
+      "projectPath": "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\UnitTestJenkinsJob\\UnitTestJenkinsJob.csproj",
       "packagesPath": "C:\\Users\\Shahbaz.Sadik\\.nuget\\packages\\",
-      "outputPath": "C:\\sadik\\JenkinsDemoProject\\UnitTestJenkinsJob\\obj\\",
+      "outputPath": "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\UnitTestJenkinsJob\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shahbaz.Sadik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3921,8 +3921,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj": {
-              "projectPath": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj"
+            "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\JenkinesTest\\JeniknsJob.csproj": {
+              "projectPath": "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\JenkinesTest\\JeniknsJob.csproj"
             }
           }
         }

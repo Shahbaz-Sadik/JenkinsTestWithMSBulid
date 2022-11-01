@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj": {}
+    "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\JenkinesTest\\JeniknsJob.csproj": {}
   },
   "projects": {
-    "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj": {
+    "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\JenkinesTest\\JeniknsJob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj",
+        "projectUniqueName": "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\JenkinesTest\\JeniknsJob.csproj",
         "projectName": "JeniknsJob",
-        "projectPath": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj",
+        "projectPath": "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\JenkinesTest\\JeniknsJob.csproj",
         "packagesPath": "C:\\Users\\Shahbaz.Sadik\\.nuget\\packages\\",
-        "outputPath": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\obj\\",
+        "outputPath": "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\JenkinesTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shahbaz.Sadik\\AppData\\Roaming\\NuGet\\NuGet.Config",

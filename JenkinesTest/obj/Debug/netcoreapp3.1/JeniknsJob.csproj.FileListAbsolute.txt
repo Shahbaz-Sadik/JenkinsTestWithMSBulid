@@ -40,3 +40,17 @@ C:\sadik\JenkinsDemoProject\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.cspr
 C:\sadik\JenkinsDemoProject\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.dll
 C:\sadik\JenkinsDemoProject\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.pdb
 C:\sadik\JenkinsDemoProject\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.genruntimeconfig.cache
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\bin\Debug\netcoreapp3.1\JeniknsJob.exe
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\bin\Debug\netcoreapp3.1\JeniknsJob.deps.json
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\bin\Debug\netcoreapp3.1\JeniknsJob.runtimeconfig.json
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\bin\Debug\netcoreapp3.1\JeniknsJob.runtimeconfig.dev.json
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\bin\Debug\netcoreapp3.1\JeniknsJob.dll
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\bin\Debug\netcoreapp3.1\JeniknsJob.pdb
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.csproj.AssemblyReference.cache
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.AssemblyInfoInputs.cache
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.AssemblyInfo.cs
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.csproj.CoreCompileInputs.cache
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.dll
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.pdb
+C:\sadik\MSBuild\JenkinsTestWithMSBulid\JenkinesTest\obj\Debug\netcoreapp3.1\JeniknsJob.genruntimeconfig.cache

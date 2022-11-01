@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "StVfj0+7WGUKd2GvLpJU5oEgX0N/rS+LxFqB5IGAgzRBiGoJ9aN3qx1AYMwEoYX7nJ9zrQ5wy0zP2ZfXg9SRrA==",
+  "dgSpecHash": "CLSw6tiFkqt9kAWdGCbSHLH8rCQ1y8rt/J2KbijJY01axEes05cOxs2Ek5j8lZRs0CGNklbjAJxwgpHFIiXU+A==",
   "success": true,
-  "projectFilePath": "C:\\sadik\\JenkinsDemoProject\\JenkinesTest\\JeniknsJob.csproj",
+  "projectFilePath": "C:\\sadik\\MSBuild\\JenkinsTestWithMSBulid\\JenkinesTest\\JeniknsJob.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
